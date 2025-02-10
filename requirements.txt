@@ -3,4 +3,6 @@ rich
 pystyle
 psutil
 netifaces
+prompt_toolkit
+
 
