@@ -1,8 +1,5 @@
 requests
 rich
 pystyle
-psutil
-netifaces
-prompt_toolkit
-
-
+pyfiglet
+colorama
